@@ -1,0 +1,24 @@
+numeric:
+  - type
+  - mean
+  - median
+  - mode
+  - min
+  - max
+  - percent_zero
+  - variance
+  - std
+  - iqr
+  - coef_variation
+  - unique_count
+    
+    
+categorical:
+  - type
+  - mode
+  - unique_count
+  - value_counts
+
+
+ignore:
+  - Id

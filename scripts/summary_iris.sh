@@ -1,0 +1,1 @@
+python3 src/main.py --data data/iris/Iris.csv --type markdown --filename iris
